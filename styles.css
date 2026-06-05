@@ -9,7 +9,7 @@ h1 {
     padding: 10px 20px;
     border-radius: 8px;
     display: block;
-    width: fit-content;
+    width: 100%;
     margin: 20px auto;
     background-color: #E1F6FF;
     color:white;
@@ -18,12 +18,14 @@ h1 {
      0 0 5px #fff,
      0 0 15px #00f,
      0 0 25px #00f;
+     text-allign: center;
 }
 
 .nav {
     display: flex;
     justify-content: center;
-    gap: 5px;
+    gap: 10px;
+    width: 100%;
     list-style: none;
     padding: 0;
     border-width: 0 45px;
