@@ -23,10 +23,10 @@ h1 {
 .nav {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 10px;
     list-style: none;
     padding: 0;
-    border-width: 0 40px;
+    border-width: 0 55px;
     background-color: #E1F6FF;
     list-style-type: none;
     border: 14px solid#3B6366;
@@ -96,5 +96,5 @@ p {
     padding: 15px;
     box-shadow: 0 4px 15px rga(0,0,0,0.15);
     font-family: 'Montserrat', sans-serif;
-    
+    font-size: 32px
 }
