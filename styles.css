@@ -19,9 +19,10 @@ h1 {
     background-color: #E1F6FF;
     color:white;
     text-shadow:   
-    0 0 5px #fff,
-    0 0 10px #fff,
-    0 0 20px #fff;
+   0 0 2px #fff,
+   0 0 5px #fff,
+   0 0 15px #00f,
+   0 0 25px #00f;
 }
 
 .nav {
