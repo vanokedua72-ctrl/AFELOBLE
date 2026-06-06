@@ -4,7 +4,7 @@ body{background-color: #3B6366;
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 100px;
     border: 2px #E1F6FF;
     padding: 10px 20px;
     width: fit-content;
@@ -91,11 +91,17 @@ p {
     text-align: center;
     background: white;
     width: 1050px;
-    margin: auto;
+    margin: 20px auto;
     margin-top: 50px;
+    border: 2px solid #7aa2ff;
     border-radius: 20px;
     padding: 15px;
-    box-shadow: 0 4px 15px rga(0,0,0,0.15);
+    box-shadow: 0 0 5px rgba(255,255,255,0.7),
+
+        0 0 10px rgba(122,162,255,0.5),
+
+        0 0 20px rgba(122,162,255,0.3);
     font-family: 'Montserrat', sans-serif;
     font-size: 32px
+    
 }
