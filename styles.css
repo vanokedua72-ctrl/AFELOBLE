@@ -1,11 +1,10 @@
 /* Place your CSS styles in this file */
-body{body{
+body{
     background-image: url("Gunung Medium.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
