@@ -4,7 +4,7 @@ body{background-color: #3B6366;
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 40px;
     border: 2px #E1F6FF;
     padding: 10px 20px;
     width: fit-content;
@@ -52,7 +52,7 @@ li {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 890;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .home-active {
