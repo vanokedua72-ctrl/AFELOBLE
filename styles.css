@@ -23,7 +23,7 @@ h1 {
 .nav {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 50px;
     width: 100%;
     list-style: none;
     padding: 0;
