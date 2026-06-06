@@ -4,7 +4,7 @@ body{background-color: #3B6366;
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 100px;
+    font-size: 20px;
     border: 2px #E1F6FF;
     padding: 10px 20px;
     width: fit-content;
@@ -32,6 +32,7 @@ h1 {
     list-style-type: none;
     border: 14px solid#3B6366;
     border-radius: 18px;
+    font-size: 30px;
 }
 
 .nav li a {
