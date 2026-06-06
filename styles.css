@@ -85,7 +85,7 @@ marquee {
      margin-top: 50px;
      border-radius: 30px;
      box-shadow: 0 4px 15px rga(0,0,0,0.15);
-    border: 2px dashed #7aa2ff;
+    border: 5px dashed #7aa2ff;
 }
 
 p {
@@ -94,7 +94,7 @@ p {
     color: solid black;
     text-align: center;
     background: white;
-    width: 700px;
+    width: 1000px;
     margin: 20px auto;
     margin-top: 50px;
     border: 2px dashed #7aa2ff;
